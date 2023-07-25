@@ -22,10 +22,10 @@
 </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=nextjs&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-43853d?style=flat-square&logo=tailwind&logoColor=white" />
-  <img alt="Mantine" src="https://img.shields.io/badge/-Mantine-43853d?style=flat-square&logo=Mantine&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-45b8d8?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-43853d?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Mantine" src="https://img.shields.io/badge/-Mantine-43853d?style=flat-square&logo=react&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="bulma" src="https://img.shields.io/badge/-bulma-43853d?style=flat-square&logo=bulma&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-43853d?style=flat-square&logo=bootstrap&logoColor=white" />
