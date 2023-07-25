@@ -6,12 +6,12 @@ A brief description of what this project does and who it's for
 
 <p >
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=next&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=nextjs&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=aws&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-1a73e8?style=flat-square&logo=azure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=AWS&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-1a73e8?style=flat-square&logo=Azure&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
