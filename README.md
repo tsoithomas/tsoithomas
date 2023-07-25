@@ -11,14 +11,14 @@
 # Languages and Tools
 
 <div>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=android&logoColor=white" />
-  <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-E34F26?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" height="20" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="20" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=white" height="20" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" height="20" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" height="20" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=android&logoColor=white" height="20" />
+  <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-E34F26?style=flat-square&logo=apple&logoColor=white" height="20" />
 </div>
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-43853d?style=flat-square&logo=react&logoColor=white" />
