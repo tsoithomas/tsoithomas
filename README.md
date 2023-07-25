@@ -17,8 +17,8 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-43853d?style=flat-square&logo=php&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-E34F26?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-E34F26?style=flat-square&logo=ObjectiveC&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-E34F26?style=flat-square&logo=c&logoColor=white" />
 </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -52,7 +52,7 @@
 <p>
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-43853d?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-43853d?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=chartjs&logoColor=white" />
+  <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=chartdotjs&logoColor=white" />
 </p>
 <p>
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-43853d?style=flat-square&logo=adobephotoshop&logoColor=white" />
