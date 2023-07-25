@@ -1,6 +1,6 @@
-# Hi 👋, I'm Thomas Tsoi
+# Hello World! 👋
 
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">I'm Thomas Tsoi! A passionate full-stack developer</h3>
 
 # Connect with me
 <p align="left">
