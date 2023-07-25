@@ -44,7 +44,7 @@
 </p>
 <p>
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-43853d?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="scikit_learn" src="https://img.shields.io/badge/-scikit_learn-43853d?style=flat-square&logo=scikit_learn&logoColor=white" />
+  <img alt="scikit_learn" src="https://img.shields.io/badge/-scikit__learn-43853d?style=flat-square&logo=scikit_learn&logoColor=white" />
 </p>
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-1a73e8?style=flat-square&logo=Azure&logoColor=white" />
