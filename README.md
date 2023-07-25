@@ -42,8 +42,8 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-43853d?style=flat-square&logo=Redis&logoColor=white" />
 </p>
 <p>
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-1a73e8?style=flat-square&logo=Azure&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=AWS&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-1a73e8?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=amazonaws&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -51,7 +51,7 @@
 </p>
 <p>
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-43853d?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="scikit_learn" src="https://img.shields.io/badge/-scikit__learn-43853d?style=flat-square&logo=scikit_learn&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-43853d?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=chartjs&logoColor=white" />
 </p>
 <p>
