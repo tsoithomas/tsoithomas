@@ -54,3 +54,9 @@
   <img alt="scikit_learn" src="https://img.shields.io/badge/-scikit__learn-43853d?style=flat-square&logo=scikit_learn&logoColor=white" />
   <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=chartjs&logoColor=white" />
 </p>
+<p>
+  <img alt="Photoshop" src="https://img.shields.io/badge/-pandas-43853d?style=flat-square&logo=adobephotoshop&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-scikit__learn-43853d?style=flat-square&logo=adobepillustrator&logoColor=white" />
+  <img alt="InDesign" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=adobeindesign&logoColor=white" />
+  <img alt="PremierePro" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=adobepremierepro&logoColor=white" />
+</p>
