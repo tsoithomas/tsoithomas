@@ -29,7 +29,6 @@
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="bulma" src="https://img.shields.io/badge/-bulma-43853d?style=flat-square&logo=bulma&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-43853d?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=chartjs&logoColor=white" />
 </p>
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -43,16 +42,15 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-43853d?style=flat-square&logo=Redis&logoColor=white" />
 </p>
 <p>
-  <img alt="pandas" src="https://img.shields.io/badge/-pandas-43853d?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="scikit_learn" src="https://img.shields.io/badge/-scikit__learn-43853d?style=flat-square&logo=scikit_learn&logoColor=white" />
-</p>
-<p>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-1a73e8?style=flat-square&logo=Azure&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=flat-square&logo=AWS&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
+<p>
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-43853d?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="scikit_learn" src="https://img.shields.io/badge/-scikit__learn-43853d?style=flat-square&logo=scikit_learn&logoColor=white" />
+  <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=chartjs&logoColor=white" />
 </p>
