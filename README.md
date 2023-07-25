@@ -21,14 +21,14 @@
   <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-E34F26?style=flat-square&logo=apple&logoColor=white" />
 </div>
 <div>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-45b8d8?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-45b8d8?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-43853d?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="Mantine" src="https://img.shields.io/badge/-Mantine-43853d?style=flat-square&logo=react&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="bulma" src="https://img.shields.io/badge/-bulma-43853d?style=flat-square&logo=bulma&logoColor=white" />
-  <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-43853d?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-43853d?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-43853d?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-43853d?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="tailwind" src="https://img.shields.io/badge/-tailwind-45b8d8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Mantine" src="https://img.shields.io/badge/-Mantine-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-45b8d8?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="bulma" src="https://img.shields.io/badge/-bulma-45b8d8?style=flat-square&logo=bulma&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-45b8d8?style=flat-square&logo=bootstrap&logoColor=white" />
 </div>
 <div>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-430098?style=flat-square&logo=Node.js&logoColor=white" />
