@@ -48,9 +48,9 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </div>
 <div>
-  <img alt="pandas" src="https://img.shields.io/badge/-pandas-43853d?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-43853d?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-43853d?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-pandas-733d11?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-733d11?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-733d11?style=flat-square&logo=chartdotjs&logoColor=white" />
 </div>
 <div>
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-43853d?style=flat-square&logo=adobephotoshop&logoColor=white" />
