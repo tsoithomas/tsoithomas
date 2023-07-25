@@ -31,10 +31,10 @@
   <img alt="bootstrap" src="https://img.shields.io/badge/-bootstrap-43853d?style=flat-square&logo=bootstrap&logoColor=white" />
 </div>
 <div>
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-43853d?style=flat-square&logo=Laravel&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-430098?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-430098?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-430098?style=flat-square&logo=Flask&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-430098?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-43853d?style=flat-square&logo=MongoDB&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-43853d?style=flat-square&logo=Redis&logoColor=white" />
