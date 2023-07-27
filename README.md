@@ -8,13 +8,16 @@
 
 
 # My Profiles
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://tsoi.work-8225a7?style=for-the-badge&logo=wordpress&logoColor=white)](https://tsoi.work)
+
 [![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsoithomas)
 
 [![Indeed](https://img.shields.io/badge/Profile-Indeed-2557a7?style=for-the-badge&logo=Indeed&logoColor=white)](https://profile.indeed.com/p/waichuenthomast-gkp5xsp)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tsoi.work-8225a7?style=for-the-badge&logo=wordpress&logoColor=white)](https://tsoi.work)
+[![Leetcode](https://img.shields.io/badge/Profile-Leetcode-ffa216?style=for-the-badge&logo=Leetcode&logoColor=white)](https://profile.indeed.com/p/waichuenthomast-gkp5xsp)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/thomastsoi?theme=dark&font=Fauna%20One&ext=contest)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thomastsoi?theme=dark&font=Fauna%20One&ext=contest)](#)
 
 # Languages and Tools
 
