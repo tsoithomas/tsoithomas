@@ -8,7 +8,7 @@
 
 
 # My Profiles
-[![Portfolio](https://img.shields.io/badge/Portfolio-https://tsoi.work-8225a7?style=for-the-badge&logo=wordpress&logoColor=white)](https://tsoi.work)
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://tsoi.work-b33243?style=for-the-badge&logo=wordpress&logoColor=white)](https://tsoi.work)
 
 [![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsoithomas)
 
