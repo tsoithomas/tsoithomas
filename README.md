@@ -15,9 +15,9 @@
 
 [![Indeed](https://img.shields.io/badge/Profile-Indeed-2557a7?style=for-the-badge&logo=Indeed&logoColor=white)](https://profile.indeed.com/p/waichuenthomast-gkp5xsp)
 
-[![Leetcode](https://img.shields.io/badge/Profile-Leetcode-ffa216?style=for-the-badge&logo=Leetcode&logoColor=white)](https://profile.indeed.com/p/waichuenthomast-gkp5xsp)
+[![Leetcode](https://img.shields.io/badge/Profile-Leetcode-ffa216?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/thomastsoi/)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/thomastsoi?theme=dark&font=Fauna%20One&ext=contest)](#)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/thomastsoi?theme=dark&font=Fauna%20One&ext=contest)](https://leetcode.com/thomastsoi/)
 
 # Languages and Tools
 
