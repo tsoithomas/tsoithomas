@@ -1,5 +1,5 @@
 # Who Am I?
-[![Software Developer](https://img.shields.io/badge/Software_Developer-0a7064?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0a7064?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
 [![Data Scientist](https://img.shields.io/badge/Data_Scientist-0b354a?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 [![Linguist](https://img.shields.io/badge/Linguist-700a1b?style=for-the-badge&logo=duolingo&logoColor=white)](#)
 [![Educator](https://img.shields.io/badge/Educator-70530a?style=for-the-badge&logo=googleclassroom&logoColor=white)](#)
