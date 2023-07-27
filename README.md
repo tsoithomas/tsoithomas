@@ -1,14 +1,20 @@
-# Hello World! 👋
+# About me 👋
+[![Software Developer](https://img.shields.io/badge/Software_Developer-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Data Scientist](https://img.shields.io/badge/Data_Scientist-0077B5?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![Linguist](https://img.shields.io/badge/Linguist-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Educator](https://img.shields.io/badge/Educator-0077B5?style=for-the-badge&logo=googleclassroom&logoColor=white)](#)
+[![Globetrotter](https://img.shields.io/badge/Globetrotter-0077B5?style=for-the-badge&logo=unitedairlines&logoColor=white)](#)
 
-<h3 align="center">I'm Thomas Tsoi! A passionate full-stack developer</h3>
 
-# Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsoithomas)
 
-[![Leetcode](https://img.shields.io/badge/Leetcode-ffa116?style=for-the-badge&logo=Leetcode&logoColor=white)](https://linkedin.com/in/tsoithomas) [![LeetCode user thomastsoi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fthomastsoi&logo=leetcode&logoColor=yellow)](https://leetcode.com/thomastsoi/) [![LeetCode user thomastsoi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fthomastsoi&logo=leetcode&logoColor=yellow)](https://leetcode.com/thomastsoi/)
+# My Profiles
+[![LinkedIn](https://img.shields.io/badge/Profile-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsoithomas)
 
-[![Portfolio](https://img.shields.io/badge/tsoi.work-Portfolio-301599?style=for-the-badge&logo=wordpress&logoColor=white)](https://tsoi.work)
+[![Indeed](https://img.shields.io/badge/Profile-Indeed-2557a7?style=for-the-badge&logo=Indeed&logoColor=white)](https://profile.indeed.com/p/waichuenthomast-gkp5xsp)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-tsoi.work-8225a7?style=for-the-badge&logo=wordpress&logoColor=white)](https://tsoi.work)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/thomastsoi?theme=dark&font=Fauna%20One&ext=contest)
 
 # Languages and Tools
 
