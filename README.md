@@ -2,11 +2,13 @@
 
 <h3 align="center">I'm Thomas Tsoi! A passionate full-stack developer</h3>
 
-# Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/tsoithomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tsoithomas" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thomastsoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tsoithomas" height="30" width="40" /></a>
-</p>
+# Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsoithomas)
+
+[![Leetcode](https://img.shields.io/badge/Leetcode-ffa116?style=for-the-badge&logo=Leetcode&logoColor=white)](https://linkedin.com/in/tsoithomas) [![LeetCode user thomastsoi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fthomastsoi&logo=leetcode&logoColor=yellow)](https://leetcode.com/thomastsoi/) [![LeetCode user thomastsoi](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fthomastsoi&logo=leetcode&logoColor=yellow)](https://leetcode.com/thomastsoi/)
+
+[![Portfolio](https://img.shields.io/badge/tsoi.work-Portfolio-301599?style=for-the-badge&logo=wordpress&logoColor=white)](https://tsoi.work)
+
 
 # Languages and Tools
 
