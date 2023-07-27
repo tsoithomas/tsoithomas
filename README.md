@@ -60,6 +60,7 @@
   <img alt="pandas" src="https://img.shields.io/badge/-pandas-b8620d?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-b8620d?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-b8620d?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-b8620d?style=for-the-badge&logo=Tableau&logoColor=white" />
   <img alt="chartjs" src="https://img.shields.io/badge/-chartjs-b8620d?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 </div>
 <div>
