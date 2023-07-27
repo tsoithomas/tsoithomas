@@ -1,6 +1,6 @@
 # Who Am I?
-[![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-0a7064?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-[![Data Scientist](https://img.shields.io/badge/Data_Scientist-0b354a?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![Software Developer](https://img.shields.io/badge/Software_Developer-0a7064?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Data Engineer](https://img.shields.io/badge/Data_Engineer-0b354a?style=for-the-badge&logo=jupyter&logoColor=white)](#)
 [![Linguist](https://img.shields.io/badge/Linguist-700a1b?style=for-the-badge&logo=duolingo&logoColor=white)](#)
 [![Educator](https://img.shields.io/badge/Educator-70530a?style=for-the-badge&logo=googleclassroom&logoColor=white)](#)
 [![Globetrotter](https://img.shields.io/badge/Globetrotter-3b700a?style=for-the-badge&logo=unitedairlines&logoColor=white)](#)
