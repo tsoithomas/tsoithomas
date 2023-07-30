@@ -27,7 +27,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-610b9e?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-610b9e?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-610b9e?style=for-the-badge&logo=android&logoColor=white" />
-  <img alt="Objective-C" src="https://img.shields.io/badge/-Objective--C-610b9e?style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 <div>
   <img alt="React" src="https://img.shields.io/badge/-React-a61d05?style=for-the-badge&logo=react&logoColor=white" />
@@ -43,7 +42,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-430098?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-430098?style=for-the-badge&logo=express&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-430098?style=for-the-badge&logo=Flask&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-430098?style=for-the-badge&logo=Laravel&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-b50961?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-b50961?style=for-the-badge&logo=MongoDB&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-b50961?style=for-the-badge&logo=Redis&logoColor=white" />
