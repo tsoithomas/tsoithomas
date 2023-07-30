@@ -49,7 +49,7 @@
 <div>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-1a73e8?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-1a73e8?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/-GCP-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-4b4d03?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-4b4d03?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-4b4d03?style=for-the-badge&logo=heroku&logoColor=white" />
