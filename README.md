@@ -67,3 +67,5 @@
   <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-43853d?style=for-the-badge&logo=adobeindesign&logoColor=white" />
   <img alt="PremierePro" src="https://img.shields.io/badge/-Premiere_Pro-43853d?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoithomas&theme=blue-green)](#)
