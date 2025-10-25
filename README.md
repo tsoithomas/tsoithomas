@@ -70,4 +70,4 @@
 
 [![GitHub Stats](https://github-readme-stats-gamma-seven-48.vercel.app/api/top-langs/?username=tsoithomas&theme=blue-green&layout=compact)](https://github.com/tsoithomas)
 
-[![Thomas's GitHub stats](https://github-readme-stats-gamma-seven-48.vercel.app/api?username=tsoithomas&show_icons=true&count_private=true&theme=dark)](#)
+[![Thomas's GitHub stats](https://github-readme-stats-gamma-seven-48.vercel.app/api?username=tsoithomas&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&theme=dark)](#)
