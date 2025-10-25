@@ -68,4 +68,6 @@
   <img alt="PremierePro" src="https://img.shields.io/badge/-Premiere_Pro-43853d?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
 </div>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tsoithomas&theme=blue-green)](#)
+[![GitHub Stats](https://github-readme-stats-i9ti8vybb-tsoithomas-projects.vercel.app/api/top-langs/?username=tsoithomas&theme=blue-green&layout=compact)](#)
+
+[![Thomas's GitHub stats](https://github-readme-stats-i9ti8vybb-tsoithomas-projects.vercel.app/api?username=tsoithomas&show_icons=true&count_private=true)](#)
